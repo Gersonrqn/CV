@@ -73,7 +73,7 @@ h3{
     column-gap: 1rem;
 }
 .fondo{
-    background-image: url(../img/universo.jpg);
+    background-image: url(universo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 15rem;
