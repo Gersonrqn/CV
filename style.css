@@ -68,7 +68,7 @@ h3{
 }
 @media (min-width: 768px){
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(4,1fr);
     grid-template-rows: auto auto 20rem; 
     column-gap: 1rem;
 }
