@@ -88,6 +88,7 @@ h3{
     justify-content: center;
 }
 .fondo-2{
+    background-image: url(nubes.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 15rem;
